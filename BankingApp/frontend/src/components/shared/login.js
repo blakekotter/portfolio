@@ -6,13 +6,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // CustomerID: 69580 (admin)
 // Password: blake 
 
-// CustomerID: 19638 (admin)
+// CustomerID: 19638 (employee)
 // Password: anakin 
 
-// CustomerID: 13579 (employee)
+// CustomerID: 13579 (customer)
 // Password: abcde  
 
-// CustomerID: 12345 (customer)
+// CustomerID: 12345 (admin)
 // Password: password123 
 
 // This function is used to log in to the application
