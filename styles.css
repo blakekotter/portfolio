@@ -26,6 +26,37 @@ header p {
     margin-top: 0.5rem;
 }
 
+/* Navigation Bar Styles */
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centers the nav items horizontally */
+}
+
+nav ul li {
+    margin: 0;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+
 #projects {
     padding: 2rem;
     max-width: 1200px;
