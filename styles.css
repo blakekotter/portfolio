@@ -29,7 +29,7 @@ header p {
 /* General Link Styles */
 a {
     text-decoration: none;  /* Remove underline from all links */
-    color: inherit;  /* Ensure links inherit color from parent */
+    color: inherit; 
 }
 
 /* Navigation Bar Styles */
@@ -113,6 +113,20 @@ a.project-link {
 
 .project ul {
     padding-left: 20px;
+}
+
+.github-link {
+    text-decoration: none;
+    color: #6d83f2;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: inline-block;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.github-link:hover {
+    transform: translateY(-3px); /* Moves the link up slightly */
+    color: #a687ff; /* Optional: change the color on hover */
 }
 
 /* Footer Styles */
