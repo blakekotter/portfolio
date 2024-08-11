@@ -26,6 +26,12 @@ header p {
     margin-top: 0.5rem;
 }
 
+/* General Link Styles */
+a {
+    text-decoration: none;  /* Remove underline from all links */
+    color: inherit;  /* Ensure links inherit color from parent */
+}
+
 /* Navigation Bar Styles */
 nav {
     background-color: #333;
@@ -49,7 +55,6 @@ nav ul li a {
     color: white;
     text-align: center;
     padding: 14px 20px;
-    text-decoration: none;
     font-size: 1rem;
 }
 
@@ -74,8 +79,6 @@ h2 {
 
 /* Project Link and Div Styles */
 a.project-link {
-    text-decoration: none;
-    color: inherit;
     display: block;
 }
 
