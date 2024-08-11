@@ -37,7 +37,7 @@ nav ul {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center; /* Centers the nav items horizontally */
+    justify-content: center; 
 }
 
 nav ul li {
@@ -71,6 +71,7 @@ h2 {
     margin-bottom: 1rem;
 }
 
+/* Project Section Styles */
 .project {
     background: white;
     margin-bottom: 2rem;
@@ -94,6 +95,7 @@ h2 {
     margin-bottom: 1rem;
 }
 
+/* Video and Image Styles */
 video {
     width: 100%;
     max-width: 600px;
@@ -108,6 +110,7 @@ img {
     margin-top: 1rem;
 }
 
+/* Link Styles */
 a {
     color: #6d83f2;
     text-decoration: none;
