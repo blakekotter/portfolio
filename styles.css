@@ -37,7 +37,7 @@ nav ul {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center; 
+    justify-content: center; /* Centers the nav items horizontally */
 }
 
 nav ul li {
@@ -57,6 +57,7 @@ nav ul li a:hover {
     background-color: #555;
 }
 
+/* Projects Section */
 #projects {
     padding: 2rem;
     max-width: 1200px;
@@ -71,7 +72,13 @@ h2 {
     margin-bottom: 1rem;
 }
 
-/* Project Section Styles */
+/* Project Link and Div Styles */
+a.project-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
 .project {
     background: white;
     margin-bottom: 2rem;
@@ -95,31 +102,8 @@ h2 {
     margin-bottom: 1rem;
 }
 
-/* Video and Image Styles */
-video {
-    width: 100%;
-    max-width: 600px;
-    border-radius: 8px;
-    margin-top: 1rem;
-}
-
-img {
-    width: 100%;
-    max-width: 600px;
-    border-radius: 8px;
-    margin-top: 1rem;
-}
-
-/* Link Styles */
-a {
-    color: #6d83f2;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-a:hover {
-    color: #a687ff;
-    text-decoration: underline;
+.project ul {
+    padding-left: 20px;
 }
 
 /* Footer Styles */
