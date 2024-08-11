@@ -62,6 +62,12 @@ nav ul li a:hover {
     background-color: #555;
 }
 
+section {
+    padding: 2rem; /* Adds padding around each section */
+    max-width: 1200px;
+    margin: 0 auto; /* Centers the content */
+}
+
 /* Projects Section */
 #projects {
     padding: 2rem;
