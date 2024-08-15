@@ -1,7 +1,7 @@
 # Four in a Row
 
 ## Overview
-Four in a Row, also known as Connect Four, is a classic two-player game where the objective is to connect four discs in a row. This digital version is built with modern web technologies.
+Four in a Row, also known as Connect Four, is a two-player game where the objective is to connect four of a kind in a row, either vertically, horizontally, or diagonally, before your opponent does. This digital version captures the fun and strategy of the original board game.
 
 ## Technologies Used
 - React.js for the front-end

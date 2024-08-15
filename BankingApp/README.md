@@ -1,7 +1,7 @@
 # Banking App
 
 ## Overview
-The Banking App is a comprehensive platform designed to streamline banking operations for admins, employees, and customers. It includes dedicated dashboards for each user role, allowing for efficient management of accounts, transactions, and system monitoring.
+The Banking App platform is designed to mimic banking operations for admins, employees, and customers. It features dedicated dashboards for each user role, making it easy to manage accounts and handle transactions.
 
 ## Technologies Used
 - React.js for the front-end
@@ -9,9 +9,9 @@ The Banking App is a comprehensive platform designed to streamline banking opera
 - MongoDB for data storage
 
 ## Features
-- Admin Dashboard: Manage users, view transactions, and monitor system performance.
-- Employee Dashboard: Handle customer requests, process transactions, and manage accounts.
-- Customer Dashboard: Access account information, transfer funds, and view transaction history.
+- Admin Dashboard: Oversee the banking system, manage users, and transactions.
+- Employee Dashboard: Manage customer accounts and transactions.
+- Customer Dashboard: Access account details, transfer funds, and view transaction history.
 
 ## How to Run
 To run this project locally, clone the repository, install the dependencies, and start the server using the following commands:

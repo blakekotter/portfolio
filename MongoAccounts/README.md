@@ -1,7 +1,7 @@
 # Mongo Accounts
 
 ## Overview
-Mongo Accounts is a back-end application designed for managing user accounts. It features secure authentication and user management with a focus on scalability and data security.
+Mongo Accounts is a back-end application designed for managing user accounts. It features authentication and user management.
 
 ## Technologies Used
 - React.js for the front-end
@@ -10,7 +10,7 @@ Mongo Accounts is a back-end application designed for managing user accounts. It
 
 ## Features
 - User Registration & Login: Session management.
-- Account Management: Users can update personal information and manage their account settings.
+- Account Management: Users can update and manage their account transaction.
 
 ## How to Run
 To run this project locally, clone the repository, install the dependencies, and start the server using the following commands:

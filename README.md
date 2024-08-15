@@ -1,13 +1,13 @@
 # Blake Kotter's Portfolio
 
-Welcome to my portfolio! This repository showcases a collection of projects that I have worked on, demonstrating my skills in web development, back-end development, and game development. Each project highlights different aspects of my expertise, including front-end design, back-end logic, and the use of modern development frameworks.
+Welcome to my portfolio! This repository showcases a collection of projects that I have worked on, demonstrating my skills in web development, back-end development. Each project highlights different aspects of my expertise, including front-end design, back-end logic, and the use of modern development frameworks.
 
 ## Portfolio Overview
 
 My portfolio includes the following projects:
 
 ### 1. **Banking App**
-   - A comprehensive platform designed to handle various banking operations.
+   - An application designed to handle various banking operations.
    - Includes Admin, Employee, and Customer dashboards.
    - Built with React.js, Node.js, Express.js, and MongoDB.
    - [View the Banking App Project](https://blakekotter.github.io/portfolio/banking-app.html)
@@ -20,7 +20,7 @@ My portfolio includes the following projects:
    - [Explore the Code](https://github.com/blakekotter/portfolio/tree/main/MongoAccounts)
 
 ### 3. **Hangman Game**
-   - A classic word-guessing game implemented using the MERN stack.
+   - A word-guessing game implemented using the MERN stack.
    - Features random word generation and session management.
    - [View the Hangman Game Project](https://blakekotter.github.io/portfolio/hangman.html)
    - [Explore the Code](https://github.com/blakekotter/portfolio/tree/main/Hangman)

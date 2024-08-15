@@ -1,7 +1,7 @@
 # TicTacToe
 
 ## Overview
-TicTacToe is a digital version of the classic game, offering a simple and engaging interface built with modern web technologies.
+TicTacToe is a digital version of the classic game, offering a simple and engaging interface.
 
 ## Technologies Used
 - React.js for the front-end

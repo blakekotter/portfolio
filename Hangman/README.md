@@ -1,7 +1,7 @@
 # Hangman Game
 
 ## Overview
-The Hangman Game is a classic word-guessing game developed using the MERN stack. Players try to guess a hidden word by suggesting letters, with each incorrect guess bringing them closer to losing.
+The Hangman Game is a word-guessing game developed using the MERN fullstack. It challenges players to guess a hidden word by suggesting letters.
 
 ## Technologies Used
 - React.js for the front-end
