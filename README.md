@@ -1,6 +1,6 @@
 # Blake Kotter's Portfolio
 
-Welcome to my portfolio! This repository showcases a collection of projects that I have worked on, demonstrating my skills in web development, back-end development. Each project highlights different aspects of my expertise, including front-end design, back-end logic, and the use of modern development frameworks.
+Welcome to my portfolio! This repository showcases a collection of projects that I have worked on, demonstrating my skills in frontend web development and back-end development. Each project highlights different aspects of work, including front-end design, back-end logic, and the use of modern development frameworks.
 
 ## Portfolio Overview
 
